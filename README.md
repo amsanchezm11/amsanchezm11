@@ -23,12 +23,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
-### <span style="color: #5F9EA0;">Technologies & Frameworks</span>
+### <span style="color: #5F9EA0;">🛠️Technologies & Frameworks</span>
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/amsanchezm11)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/amsanchezm11)
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/amsanchezm11) -->
 
-### OS
+### 💻 OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/amsanchezm11)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/amsanchezm11)
 
@@ -38,7 +38,8 @@
     <img src="https://komarev.com/ghpvc/?username=amsanchezm11&color=blue&style=flat)" />
   </a>
 </p>
-⚙️ &nbsp;GitHub Analytics<br><br>
+
+### <span style="color: #5F9EA0;">&nbsp;⚙️ GitHub Analytics</span><br><br>
 
 <p align="center">
 <a href="(https://github.com/amsanchezm11)">
@@ -46,7 +47,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amsanchezm11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 
 
 ###  <span style="color: #5F9EA0;">⭐ Popular Projects</span>
