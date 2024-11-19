@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #5F9EA0;">Hello there! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center" style="color: #5F9EA0;">Hola a tod@s! <img src="" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Bienvenido a mi perfil de GitHub!</b><br><br>
@@ -19,18 +19,32 @@
 </p>
 
 ### <span style="color: #5F9EA0;">Languages</span>
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/amsanchezm11)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/amsanchezm11)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/amsanchezm11)
+[![MySql](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/amsanchezm11)
+
+
+
+<!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/amsanchezm11)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql) -->
 
 ### <span style="color: #5F9EA0;">🛠️Technologies & Frameworks</span>
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/amsanchezm11)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/amsanchezm11)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://github.com/amsanchezm11)
+<!-- [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/amsanchezm11) -->
+<!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/amsanchezm11) -->
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/amsanchezm11) -->
 
+### IDEs
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://github.com/amsanchezm11)
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/amsanchezm11)
+
+
 ### 💻 OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/amsanchezm11)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/amsanchezm11)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://github.com/amsanchezm11)
+<!-- [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/amsanchezm11) -->
+<!-- [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/amsanchezm11) -->
 
 
 <p align="center">
@@ -52,5 +66,6 @@
 ###  <span style="color: #5F9EA0;">⭐ Popular Projects</span>
 
 - [Fallout Memory](https://amsanchezm11.github.io/falloutMemory/): Juego de "Encuentra las Parejas versi&oacute;n Fallout.
+- [Crea tu Camiseta](https://amsanchezm11.github.io/creaTuCamiseta/): Aplicaci&oacute;n que te permite personalizar tu camiseta.
 
 ¡Gracias por visitar mi perfil! 😊
