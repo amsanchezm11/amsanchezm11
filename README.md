@@ -15,15 +15,19 @@
     </a>
    <a href="https://amsanchezm11.github.io/Mi-Porfolio/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=github" alt="Porfolio">
-</a>
+</a>    
 </p>
+
+### <span style="color: #5F9EA0;" align="center">Social Media</span>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alberto-sánchez-macías)
+[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:sanchezmacias11@gmail.com)
+[![Porfolio](https://skillicons.dev/icons?i=github)](https://amsanchezm11.github.io/Mi-Porfolio/)
 
 ### <span style="color: #5F9EA0;">Languages</span>
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/amsanchezm11)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/amsanchezm11)
 [![MySql](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/amsanchezm11)
-
-
 
 <!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/amsanchezm11)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
