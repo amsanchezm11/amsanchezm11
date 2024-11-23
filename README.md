@@ -18,13 +18,7 @@
 </a>    
 </p>
 
-### <span style="color: #5F9EA0;" align="center">Social Media</span>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alberto-sánchez-macías)
-[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:sanchezmacias11@gmail.com)
-[![Porfolio](https://skillicons.dev/icons?i=github)](https://amsanchezm11.github.io/Mi-Porfolio/)
-
-### <span style="color: #5F9EA0;">Languages</span>
+### <span style="color: #5F9EA0;">🧑‍💻 Languages</span>
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/amsanchezm11)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/amsanchezm11)
 [![MySql](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/amsanchezm11)
@@ -39,10 +33,14 @@
 <!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/amsanchezm11) -->
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/amsanchezm11) -->
 
-### IDEs
+### ✍️ IDEs
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://github.com/amsanchezm11)
+[![VisualCode](https://skillicons.dev/icons?i=vscode)](https://github.com/amsanchezm11)
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/amsanchezm11)
 
+### 📦🖥️ Máquinas Virtuales
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://github.com/amsanchezm11)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
 
 ### 💻 OS
 [![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
@@ -66,10 +64,18 @@
 </a>
 </p>
 
+### <span style="color: #5F9EA0;" align="center">Social Media</span>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alberto-sánchez-macías)
+[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:sanchezmacias11@gmail.com)
+[![Porfolio](https://skillicons.dev/icons?i=github)](https://amsanchezm11.github.io/Mi-Porfolio/)
 
 ###  <span style="color: #5F9EA0;">⭐ Popular Projects</span>
 
 - [Fallout Memory](https://amsanchezm11.github.io/falloutMemory/): Juego de "Encuentra las Parejas versi&oacute;n Fallout.
 - [Crea tu Camiseta](https://amsanchezm11.github.io/creaTuCamiseta/): Aplicaci&oacute;n que te permite personalizar tu camiseta.
+
+###  <span style="color: #5F9EA0;">📕 Manuales Técnicos</span>
+- [Manuales Técnicos](https://github.com/amsanchezm11/Manuales-Tecnicos.git): Configuración de Servidores Apache, Tomcat 9 y Balanceo de Carga para Instancias de Tomcat 8, 9 y 10.
 
 ¡Gracias por visitar mi perfil! 😊
