@@ -34,13 +34,18 @@
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/amsanchezm11) -->
 
 ### ✍️ IDEs
+[![NetBeans](https://simpleskill.icons.workers.dev/svg?i=apachenetbeanside)](https://github.com/amsanchezm11)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://github.com/amsanchezm11)
 [![VisualCode](https://skillicons.dev/icons?i=vscode)](https://github.com/amsanchezm11)
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/amsanchezm11)
+<!-- [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,node.js,mysql,docker,mongodb,postgresql,angular)](https://github.com/amsanchezm11) -->
 
 ### 📦🖥️ Máquinas Virtuales
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://github.com/amsanchezm11)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
+
+### 🌐🖥️ Servidores
+[![Tomcat](https://simpleskill.icons.workers.dev/svg?i=apachetomcat)](https://github.com/amsanchezm11)
 
 ### 💻 OS
 [![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
