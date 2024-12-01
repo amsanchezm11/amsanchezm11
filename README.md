@@ -80,7 +80,10 @@
 - [Fallout Memory](https://amsanchezm11.github.io/falloutMemory/): Juego de "Encuentra las Parejas versi&oacute;n Fallout.
 - [Crea tu Camiseta](https://amsanchezm11.github.io/creaTuCamiseta/): Aplicaci&oacute;n que te permite personalizar tu camiseta.
 
-###  <span style="color: #5F9EA0;">📕 Manuales Técnicos</span>
+###  <span style="color: #5F9EA0;">📕 Manuales T&eacute;cnicos</span>
 - [Manuales Técnicos](https://github.com/amsanchezm11/Manuales-Tecnicos.git): Configuración de Servidores Apache, Tomcat 9 y Balanceo de Carga para Instancias de Tomcat 8, 9 y 10.
+
+###  <span style="color: #5F9EA0;">📗 Documentaci&oacute;n</span>
+- [Documentaci&oacute;n](https://github.com/amsanchezm11/DOCUMENTACION.git): Documentaci&oacute;n de las aplicaciones webs realizadas. 
 
 ¡Gracias por visitar mi perfil! 😊
