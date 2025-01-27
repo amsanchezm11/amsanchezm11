@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql) -->
 
 ### <span style="color: #5F9EA0;">🛠️Technologies & Frameworks</span>
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap)](https://github.com/amsanchezm11)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,hibernate)](https://github.com/amsanchezm11)
 <!-- [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/amsanchezm11) -->
 <!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/amsanchezm11) -->
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/amsanchezm11) -->
