@@ -1,4 +1,31 @@
-<h1 align="center" style="color: #5F9EA0;">Hola a tod@s! <img src="" width="28px" alt="👋"></h1>
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/152199732?v=4"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/alberto-sánchez-macías" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sanchezmacias11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://amsanchezm11.github.io/Mi-Porfolio/">
+    <img src="https://img.shields.io/static/v1?message=Porfolio&logo=github&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amsanchezm11.amsanchezm11&right_color=purple"  />
+</div>
+
+###
+
+<h1 align="center">Hola a tod@s!  👋</h1>
+
+###
 
 <p align="center">
     <b>Bienvenido a mi perfil de GitHub!</b><br><br>
@@ -7,84 +34,130 @@
         Actualmente me encuentro cursando el segundo año de Desarrollo de Aplicaciones Web<br>
         Abierto a colaborar en proyectos interesantes e innovadores.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/alberto-sánchez-macías">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:sanchezmacias11@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-   <a href="https://amsanchezm11.github.io/Mi-Porfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=github" alt="Porfolio">
-</a>    
 </p>
 
-### <span style="color: #5F9EA0;">🧑‍💻 Languages</span>
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/amsanchezm11)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/amsanchezm11)
-[![MySql](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/amsanchezm11)
+###
 
-<!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/amsanchezm11)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql) -->
+<h3 align="left">🧑‍💻 Languages</h3>
 
-### <span style="color: #5F9EA0;">🛠️Technologies & Frameworks</span>
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,hibernate)](https://github.com/amsanchezm11)
-<!-- [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/amsanchezm11) -->
-<!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/amsanchezm11) -->
-<!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/amsanchezm11) -->
+###
 
-### ✍️ IDEs
-[![NetBeans](https://simpleskill.icons.workers.dev/svg?i=apachenetbeanside)](https://github.com/amsanchezm11)
-[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://github.com/amsanchezm11)
-[![VisualCode](https://skillicons.dev/icons?i=vscode)](https://github.com/amsanchezm11)
-[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://github.com/amsanchezm11)
-<!-- [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,node.js,mysql,docker,mongodb,postgresql,angular)](https://github.com/amsanchezm11) -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-### 📦🖥️ Máquinas Virtuales
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://github.com/amsanchezm11)
-[![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
+###
 
-### 🌐🖥️ Servidores
-[![Tomcat](https://simpleskill.icons.workers.dev/svg?i=apache)](https://github.com/amsanchezm11)
-[![Tomcat](https://simpleskill.icons.workers.dev/svg?i=apachetomcat)](https://github.com/amsanchezm11)
+<h3 align="left">🛠️Technologies & Frameworks</h3>
 
-### 💻 OS
-[![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/amsanchezm11)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://github.com/amsanchezm11)
-<!-- [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/amsanchezm11) -->
-<!-- [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/amsanchezm11) -->
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/amsanchezm11">
-    <img src="https://komarev.com/ghpvc/?username=amsanchezm11&color=blue&style=flat)" />
-  </a>
-</p>
+###
 
-### <span style="color: #5F9EA0;">&nbsp;⚙️ GitHub Analytics</span><br><br>
+<h3 align="left">✍️ IDEs</h3>
 
-<p align="center">
-<a href="(https://github.com/amsanchezm11)">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amsanchezm11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amsanchezm11&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+###
 
-### <span style="color: #5F9EA0;" align="center">Social Media</span>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+</div>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alberto-sánchez-macías)
-[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:sanchezmacias11@gmail.com)
-[![Porfolio](https://skillicons.dev/icons?i=github)](https://amsanchezm11.github.io/Mi-Porfolio/)
+###
 
-###  <span style="color: #5F9EA0;">⭐ Popular Projects</span>
+<h3 align="left">📦🖥️ Virtual Machine Environments</h3>
 
-- [Fallout Memory](https://amsanchezm11.github.io/falloutMemory/): Juego de "Encuentra las Parejas versi&oacute;n Fallout.
-- [Crea tu Camiseta](https://amsanchezm11.github.io/creaTuCamiseta/): Aplicaci&oacute;n que te permite personalizar tu camiseta.
+###
 
-###  <span style="color: #5F9EA0;">📕 Manuales T&eacute;cnicos</span>
-- [Manuales Técnicos](https://github.com/amsanchezm11/Manuales-Tecnicos.git): Configuración de Servidores Apache, Tomcat 9 y Balanceo de Carga para Instancias de Tomcat 8, 9 y 10.
+<div align="left">
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
 
-###  <span style="color: #5F9EA0;">📗 Documentaci&oacute;n</span>
-- [Documentaci&oacute;n](https://github.com/amsanchezm11/DOCUMENTACION.git): Documentaci&oacute;n de las aplicaciones webs realizadas. 
+###
 
-¡Gracias por visitar mi perfil! 😊
+<h3 align="left">🌐🖥️ Servers</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
+</div>
+
+###
+
+<h3 align="left">💻 Operating Systems</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="left">📚 Technical Manuals</h3>
+
+###
+[Repository](https://github.com/amsanchezm11/Manuales-Tecnicos.git)
+- **Manual Técnico - Configuración Servidor Apache**
+- **Manual Técnico - Instalación y Configuración de Tomcat 9 en Ubuntu 20.04**
+- **Manual Técnico - Balanceo de Carga en Tomcat 8, 9 y 10**
+- **Manual Técnico - Configuración de un Servidor DNS Maestro-Esclavo**
+- **Manual Técnico - Instalación y Configuración de MySQL en Docker**
+
+###
+
+<h3 align="left">📗 Project's Documentation</h3>
+
+###
+
+[Repository](https://github.com/amsanchezm11/DOCUMENTACION.git)
+
+- **Manual de usuario - CRUDDAO**
+- **Manual de usuario - KeyComponents**
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amsanchezm11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amsanchezm11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="center">¡Gracias por visitar mi perfil! 😊</p>
+
+###
