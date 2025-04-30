@@ -27,13 +27,12 @@
 
 ###
 
-<p align="center">
-    <b>Bienvenido a mi perfil de GitHub!</b><br><br>
-    <i>
-        Soy Alberto S&aacute;nchez Mac&iacute;as<br>
-        Actualmente me encuentro cursando el segundo año de Desarrollo de Aplicaciones Web<br>
-        Abierto a colaborar en proyectos interesantes e innovadores.<br>
-    </i><br>
+<p align="center"> <b>¡Bienvenido a mi perfil de GitHub!</b><br><br>
+  <i> Mi nombre es Alberto Sánchez Macías.<br>
+    Actualmente curso el segundo año del ciclo formativo de Desarrollo de Aplicaciones Web.<br>
+    Estoy realizando mis prácticas de Formación en Centros de Trabajo (FCT) en LogiRAIL (Mérida), desempeñándome como desarrollador RPA utilizando Blue Prism para automatizar procesos y optimizar flujos de trabajo empresariales.<br>
+    Estoy abierto a colaborar en proyectos innovadores y desafiantes.<br> 
+  </i><br> 
 </p>
 
 ###
