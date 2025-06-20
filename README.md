@@ -143,6 +143,8 @@
 
 - **Manual de usuario - CRUDDAO**
 - **Manual de usuario - KeyComponents**
+- **Manual de t&eacute;cnico - EntreHobbies(TFC)**
+- **Manual de usuario - EntreHobbies(TFC)**
 
 ###
 
