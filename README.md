@@ -29,8 +29,8 @@
 
 <p align="center"> <b>¡Bienvenido a mi perfil de GitHub!</b><br><br>
   <i> Mi nombre es Alberto Sánchez Macías.<br>
-    Actualmente curso el segundo año del ciclo formativo de Desarrollo de Aplicaciones Web.<br>
-    Estoy realizando mis prácticas de Formación en Centros de Trabajo (FCT) en LogiRAIL (Mérida), desempeñándome como desarrollador RPA utilizando Blue Prism para automatizar procesos y optimizar flujos de trabajo empresariales.<br>
+    Soy <strong>Técnico de Desarrollo de Aplicaciones Web</strong>.<br>
+    Actualmente trabajo en <strong>LogiRAIL</strong> (Mérida) como <strong>Desarrollador RPA</strong>, donde dise&ntilde;o e implemento soluciones de automatizaci&oacute;n utilizando <strong>Blue Prism</strong> para optimizar procesos empresariales, mejorar la eficiencia operativa y reducir tareas manuales.<br>
     Estoy abierto a colaborar en proyectos innovadores y desafiantes.<br> 
   </i><br> 
 </p>
