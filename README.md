@@ -28,6 +28,7 @@
   <i> Mi nombre es Alberto Sánchez Macías.<br>
     Soy <strong>Técnico de Desarrollo de Aplicaciones Web</strong>.<br>
     Actualmente trabajo en <strong>LogiRAIL</strong> (Mérida) como <strong>Desarrollador RPA</strong>, donde dise&ntilde;o e implemento soluciones de automatizaci&oacute;n utilizando <strong>Blue Prism</strong> para optimizar procesos empresariales, mejorar la eficiencia operativa y reducir tareas manuales.<br>
+    <br>Además, participo en tareas de <strong>análisis funcional y técnico</strong>, identificando oportunidades de automatización, definiendo requisitos y proporcionando <strong>soporte</strong> a las soluciones implantadas para garantizar su correcto funcionamiento y evolución.<br>
     Estoy abierto a colaborar en proyectos innovadores y desafiantes.<br> 
   </i><br> 
 </p>
